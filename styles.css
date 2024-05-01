@@ -1,0 +1,15 @@
+.about {
+  font-family: "Gilroy", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #0c0c0c;
+}
+
+.but-cat {
+  width: 160px;
+  height: 48px;
+  border-radius: 16px;
+  background: #3350e9;
+}
